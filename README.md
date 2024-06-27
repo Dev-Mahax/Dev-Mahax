@@ -1,7 +1,5 @@
 ### 👋🌍 Hello, I'm Mahax.
 
-Developer from https://discord.com/invite/communityh4x.
-
 [![Discord Badge](https://img.shields.io/badge/-mah4x-6b00ff?style=flat-square&labelColor=6b00ff&logo=discord&logoColor=white&link=https://discord.com/users/1247868827522437221)](https://discord.com/users/1247868827522437221) 
 
 I am currently working on server projects for GTA across various platforms, both for SA, FIVEM, and MTA.
